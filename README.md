@@ -26,5 +26,24 @@ It is built with modern web technologies and designed to provide a smooth user e
 ## 📂 Installation
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/Sudeepsahu20/CineScope.git
+
+2.Navigate to the project folder:
+
+cd CineScope
+
+
+3.Install dependencies (if using Node.js backend):
+
+npm install
+
+
+4.Run the project:
+
+npm start
+
+
+5.Open in browser:
+
+http://localhost:3000

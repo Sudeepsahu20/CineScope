@@ -1,15 +1,30 @@
-# CineScope
+# CineScope 🎬
 
-A responsive React application to search and display movies using the OMDb API. Users can type a movie name, click search, and instantly see details like poster, title, year, and type. Perfect for learning React, API integration, and state management.
+CineScope is a **Movie Search Application** that allows users to search for movies, view details, and explore trending films easily.  
+It is built with modern web technologies and designed to provide a smooth user experience.
 
-## Features
-- Search movies by name using OMDb API
-- Display movie poster, title, year, and type
-- Responsive UI
-- Built with React + Vite
+---
 
-## Tech Stack
-- React.js
-- Vite
-- CSS
-- OMDb API
+## 🚀 Features
+
+- Search movies by name.
+- View detailed information about movies (genre, release date, rating, etc.).
+- Trending movies and popular recommendations.
+- Responsive design for desktop and mobile.
+- Clean and intuitive UI.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **API:** [OMDb API](http://www.omdbapi.com/)
+- **Version Control:** Git & GitHub
+
+---
+
+## 📂 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Sudeepsahu20/CineScope.git
